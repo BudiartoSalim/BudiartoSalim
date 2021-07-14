@@ -4,11 +4,11 @@ I'm a web developer specializing in Javascript / Typescript. My main stack right
 
 I also have an interest on game development. I've been learning game design and game development related stuffs on my freetime ever since when I still a college student at around the year 2012. I've also previously worked on several Unity Engine project using C#, although it's not in this Github profile I use for web development related stuff.
 
-Fun fact: My first language is actually Pascal which was introduced to me during high school, and C on my Programming 101 on college, but the first language that I can actually use is C# which I learnt from university, and later deepened through Unity projects after I graduated. Now I focus more on web development stacks, and been enjoying Typescript recently. I've also tried Golang and Ruby (Rails) too before.
-
 Right now I make web games using Javascript / Typescript for side projects as part hobby and to polish my skills in my free time too!
 
 You can reach me through this email: budiarto.salim91@gmail.com
+
+Fun fact: My first language is actually Pascal which was introduced to me during high school and later C in my Programming 101 course on college, but to me the first language that actually counts and I can properly use is C# which I learnt from university on later semesters, which later also deepened through Unity projects that I've done with others after I graduated. Now I focus more on web development stacks, and been enjoying Typescript a lot. I've also tried Golang and Ruby (Rails) too before.
 
 <!---
 BudiartoSalim/BudiartoSalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
