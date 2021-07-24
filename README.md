@@ -1,4 +1,4 @@
-👋 Hi, I’m Budiarto, you can just call me Budi!
+# 👋 Hi, I’m Budiarto, you can just call me Budi!
 
 I'm a web developer specializing in Javascript / Typescript. My main stack right now is Express and Postgresql for backend, and React for frontend. I've used Vue 2.0 too before, not for long though.
 
