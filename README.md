@@ -8,7 +8,7 @@ Right now I make web games using Javascript / Typescript for side projects as pa
 You can reach me through this email: budiarto.salim91@gmail.com
 
 #### About my software engineering journey:
-My first language is actually Pascal which was introduced to me during high school and later C in my Programming 101 course on college, but to me the first language that actually counts and I can properly use is C# which I learnt from university on later semesters, which later also deepened through Unity projects that I've done with others after I graduated. Now I focus more on web development stacks, and been enjoying Typescript a lot. I've also tried Golang and Ruby (Rails) too before.
+My first language is actually Pascal which was introduced to me during high school and later C in my Programming 101 course on college, but to me the first language that actually counts and I can properly use is C# which I learnt from university on later semesters, further deepened later on through Unity projects that I've done with others after I graduated. Now I focus more on web development stacks, and been enjoying Typescript a lot. I've also tried Golang and Ruby (Rails) too before.
 
 <!---
 BudiartoSalim/BudiartoSalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
